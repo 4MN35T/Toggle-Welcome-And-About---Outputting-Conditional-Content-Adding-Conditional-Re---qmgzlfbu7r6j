@@ -17,6 +17,6 @@ const App = () => {
       <button id="toggle" onClick={handleToggle}>Toggle</button>
     </div>
   );
-};
+};  
 
 export default App;
